@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="9" failures="0" time="5.099">
+  <testsuite name="src/test/calculation.spec.js" errors="0" failures="0" skipped="0" timestamp="2022-11-10T04:57:23" time="2.852" tests="5">
+    <testcase classname="Calculation › operations" name="should not be equal to 4359.0908 and should&apos;nt return" time="0.008">
+    </testcase>
+    <testcase classname="Calculation › operations" name="should return 10.51" time="0.001">
+    </testcase>
+    <testcase classname="Calculation › operations" name="should return 149991" time="0.001">
+    </testcase>
+    <testcase classname="Calculation › operations" name="should return 3407.25" time="0.001">
+    </testcase>
+    <testcase classname="Calculation › operations" name="should return 2157.1" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="src/test/view.spec.js" errors="0" failures="0" skipped="0" timestamp="2022-11-10T04:57:23" time="2.988" tests="4">
+    <testcase classname="View" name="should render layout with Layout component" time="0.008">
+    </testcase>
+    <testcase classname="View" name="should be one Paragraph component on the page" time="0.05">
+    </testcase>
+    <testcase classname="View" name="should return right result for addition" time="0.025">
+    </testcase>
+    <testcase classname="View" name="should render &quot;Wrong input!&quot; in paragraph when wrong input given" time="0.011">
+    </testcase>
+  </testsuite>
+</testsuites>
